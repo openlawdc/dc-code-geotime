@@ -1,7 +1,7 @@
 
 Here is an example:
 
-
+<pre>
 <level>
   <type>section</type>
   <num>1-1041.03</num>
@@ -89,3 +89,5 @@ Here is an example:
     </level>
   </level>
 </level>
+
+</pre>
