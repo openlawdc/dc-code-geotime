@@ -8,10 +8,10 @@ This example is from Title-12/Chapter-3/12-301 and relates to statute of liminat
 
  <text>
  <timefeature>
+ 
 on an executor's or administrator's bond - 5 years; on any other bond or single bill, covenant, or other instrument under seal - 12 years;
 
  </timefeature>
- 
  </text>
 
 '''
