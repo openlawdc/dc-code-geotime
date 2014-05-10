@@ -1,5 +1,5 @@
 
-Here is an example:
+Here is an XML example:
 
 ```
 
@@ -11,4 +11,40 @@ Starting at the intersection of a line projected from Rock Creek to Piney Branch
  </geofeature>
  </text>
 
+```
+
+Here is a JSON example:
+
+```
+{
+	'content': 'Your law here',
+	'metadata': {
+	'geofeature': [
+		  {
+		  	'name': 'Feature 1'
+		  	'content': 'This is something about Feature 1',
+		  	'geometry': [
+		  	  {
+			     'latitude' : 0.000,
+			     'longitude' : 0.000,
+			     'altitude': 1000
+			    },
+		  	  {
+			     'latitude' : 1.000,
+			     'longitude' : 1.000,
+			     'altitude': 1100
+			    }
+			  ]
+		 }
+		],
+		'timefeature': [
+		  {
+			   'name': 'February 12',
+			   'value': '2014-02-12T00:00:00Z',
+		 	  'content': 'This shall take effect on February 12'
+		  }
+		]
+
+	}
+}
 ```
